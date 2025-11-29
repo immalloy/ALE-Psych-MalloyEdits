@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/rot/" name="rot" zoom="1.5" startCamPosX="1020" startCamPosY="360">
+
+	<sprite sprite="scribbles"  name="scribbles"     x="350"   y="-200" scale="1.2"/>
+	<sprite sprite="black"  name="black"     x="-400"   y="-200" scale="5"/>
+	<sprite sprite="floor"  name="floor"     x="300"   y="800" scale="2"/>
+
+	<girlfriend x="901"  y="1000"/>
+	<dad        x="453"  y="150" />
+	<boyfriend  x="1371" y="110" camyoffset="-160" alpha="0"/>
+	
+	<ext script="camMove"  folder="data/scripts/"/>
+</stage>

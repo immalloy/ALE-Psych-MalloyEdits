@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="snail.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="snapplewalker0000" x="49" y="49" width="271" height="270"/>
+	<SubTexture name="snapplewalker0001" x="49" y="49" width="271" height="270"/>
+	<SubTexture name="snapplewalker0002" x="49" y="49" width="271" height="270"/>
+	<SubTexture name="snapplewalker0003" x="49" y="49" width="271" height="270"/>
+	<SubTexture name="snapplewalker0004" x="353" y="49" width="271" height="270"/>
+	<SubTexture name="snapplewalker0005" x="353" y="49" width="271" height="270"/>
+	<SubTexture name="snapplewalker0006" x="353" y="49" width="271" height="270"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shrimp.png">
+	<!-- Created with Adobe Animate version 24.0.11.4 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="walk0000" x="0" y="0" width="329" height="249" frameX="-8" frameY="0" frameWidth="337" frameHeight="254"/>
+	<SubTexture name="walk0001" x="0" y="0" width="329" height="249" frameX="-8" frameY="0" frameWidth="337" frameHeight="254"/>
+	<SubTexture name="walk0002" x="0" y="0" width="329" height="249" frameX="-8" frameY="0" frameWidth="337" frameHeight="254"/>
+	<SubTexture name="walk0003" x="329" y="0" width="327" height="253" frameX="-8" frameY="0" frameWidth="337" frameHeight="254"/>
+	<SubTexture name="walk0004" x="329" y="0" width="327" height="253" frameX="-8" frameY="0" frameWidth="337" frameHeight="254"/>
+	<SubTexture name="walk0005" x="329" y="0" width="327" height="253" frameX="-8" frameY="0" frameWidth="337" frameHeight="254"/>
+	<SubTexture name="walk0006" x="656" y="0" width="325" height="246" frameX="-6" frameY="-5" frameWidth="337" frameHeight="254"/>
+	<SubTexture name="walk0007" x="656" y="0" width="325" height="246" frameX="-6" frameY="-5" frameWidth="337" frameHeight="254"/>
+	<SubTexture name="walk0008" x="656" y="0" width="325" height="246" frameX="-6" frameY="-5" frameWidth="337" frameHeight="254"/>
+	<SubTexture name="walk0009" x="0" y="253" width="326" height="233" frameX="-4" frameY="-9" frameWidth="337" frameHeight="254"/>
+	<SubTexture name="walk0010" x="0" y="253" width="326" height="233" frameX="-4" frameY="-9" frameWidth="337" frameHeight="254"/>
+	<SubTexture name="walk0011" x="0" y="253" width="326" height="233" frameX="-4" frameY="-9" frameWidth="337" frameHeight="254"/>
+	<SubTexture name="walk0012" x="326" y="253" width="332" height="222" frameX="-2" frameY="-13" frameWidth="337" frameHeight="254"/>
+	<SubTexture name="walk0013" x="326" y="253" width="332" height="222" frameX="-2" frameY="-13" frameWidth="337" frameHeight="254"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="lincon sketches" camx="300" camy="100">
+	<anim name="idle" anim="idle" x="-488" y="-88"/>
+	<anim name="singDOWN" anim="down" x="-494" y="-232"/>
+	<anim name="singRIGHT" anim="right" x="-520" y="-76"/>
+	<anim name="singLEFT" anim="left" x="-368" y="-82"/>
+	<anim name="singUP" anim="up" x="-527" y="-42"/>
+	<anim name="idle-alt" anim="walking" x="-384" y="-7" fps="12" loop="true"/>
+</character>

@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "face",
+	"difficulties": [
+		"normal"
+	],
+	"color": "#FF0000",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "infinite genius",
+	"beatsPerMeasure": 4,
+	"needsVoices": false,
+	"bpm": 165
+}

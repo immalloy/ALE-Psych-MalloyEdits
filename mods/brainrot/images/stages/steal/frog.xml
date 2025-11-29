@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="frog.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boneca0000" x="49" y="49" width="125" height="224"/>
+	<SubTexture name="boneca0001" x="49" y="49" width="125" height="224"/>
+	<SubTexture name="boneca0002" x="49" y="306" width="125" height="224"/>
+	<SubTexture name="boneca0003" x="49" y="306" width="125" height="224"/>
+	<SubTexture name="boneca0004" x="49" y="563" width="125" height="224"/>
+	<SubTexture name="boneca0005" x="49" y="563" width="125" height="224"/>
+	<SubTexture name="boneca0006" x="207" y="49" width="125" height="224"/>
+	<SubTexture name="boneca0007" x="207" y="49" width="125" height="224"/>
+	<SubTexture name="boneca0008" x="207" y="306" width="125" height="224"/>
+	<SubTexture name="boneca0009" x="207" y="306" width="125" height="224"/>
+	<SubTexture name="boneca0010" x="207" y="563" width="125" height="224"/>
+	<SubTexture name="boneca0011" x="207" y="563" width="125" height="224"/>
+	<SubTexture name="boneca0012" x="365" y="49" width="125" height="224"/>
+	<SubTexture name="boneca0013" x="365" y="49" width="125" height="224"/>
+	<SubTexture name="boneca0014" x="365" y="306" width="125" height="224"/>
+	<SubTexture name="boneca0015" x="365" y="306" width="125" height="224"/>
+	<SubTexture name="boneca0016" x="365" y="563" width="125" height="224"/>
+	<SubTexture name="boneca0017" x="365" y="563" width="125" height="224"/>
+</TextureAtlas>

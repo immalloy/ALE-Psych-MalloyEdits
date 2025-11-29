@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/steal/" name="steal" zoom="0.7" startCamPosX="1300" startCamPosY="500">
+	<sprite sprite="back"  name="back"     x="400"   y="230" scale="2"/>
+	<sprite sprite="floor"   name="floor"      x="400" y="650" scale="2"/>
+
+	<girlfriend x="901"  y="1000"/>
+	<dad        x="453"  y="150" camxoffset="40" camyoffset="70"/>
+	<boyfriend  x="1371" y="110" camyoffset="-125"/>
+	
+	<ext script="camMove"  folder="data/scripts/"/>
+</stage>

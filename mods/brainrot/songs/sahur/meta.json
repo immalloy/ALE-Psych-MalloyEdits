@@ -1,0 +1,15 @@
+{
+	"color": "#C8576D",
+	"customValues": {},
+	"opponentModeAllowed": false,
+	"icon": "tung",
+	"difficulties": [
+		"NORMAL"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "sahur",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 132
+}

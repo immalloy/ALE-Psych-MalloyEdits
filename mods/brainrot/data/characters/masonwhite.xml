@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="mason2" camx="200" camy="100" color="#000000">
+	<anim name="idle" anim="idle" y="4"/>
+	<anim name="singDOWN" anim="down" x="-52" y="-130"/>
+	<anim name="singRIGHT" anim="right" x="-78" y="12"/>
+	<anim name="singLEFT" anim="left" x="374" y="30"/>
+	<anim name="singUP" anim="up" x="51" y="90"/>
+	<anim name="sixseven" anim="scared" x="101" y="851"/>
+</character>

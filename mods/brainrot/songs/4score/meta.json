@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "lincon icon",
+	"difficulties": [
+		"normal"
+	],
+	"color": "#000000",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "4score",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 178
+}

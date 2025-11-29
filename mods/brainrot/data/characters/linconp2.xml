@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="lincoln" scale="0.6" icon="linconp2">
+	<anim name="idle" anim="idle" x="-639" y="121.33" loop="true"/>
+	<anim name="singDOWN"/>
+	<anim name="singRIGHT"/>
+	<anim name="singLEFT"/>
+	<anim name="singUP" x="-648.33" y="143.33"/>
+</character>

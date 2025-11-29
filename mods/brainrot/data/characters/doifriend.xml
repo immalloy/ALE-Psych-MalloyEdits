@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" y="10" sprite="doifrined" scale="1.34" flipX="true" camx="-500" camy="400" isPlayer="true" icon="bf" color="#30B0D1">
+	<anim name="singDOWN" anim="down instance 1" x="-35.08" y="-320.9"/>
+	<anim name="singRIGHT" anim="right instance 1" x="-70.15" y="-310.45"/>
+	<anim name="singLEFT" anim="left instance 1" x="-2.98" y="-294.78"/>
+	<anim name="singUP" anim="up instance 1" x="-72.39" y="-275.38"/>
+	<anim name="interest" anim="animation instance 1" x="-33.01" y="-215.69"/>
+	<anim name="idle" anim="idle instance 1" x="-47.13" y="-308.09"/>
+</character>

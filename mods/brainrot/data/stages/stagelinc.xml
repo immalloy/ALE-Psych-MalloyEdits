@@ -1,0 +1,20 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.5" name="stage" startCamPosY="600" startCamPosX="1000">
+	<sprite name="skyLincoln"       x="-1600" y="-1300"    sprite="stages/stagelinc/skyLincoln_MAYBE"      scroll="0" />
+	<sprite name="stageBackbork"       x="500" y="-200"    sprite="stages/stagelinc/stagebackBroken"      scroll="0.51" />
+	<sprite name="stageFrontbork"       x="500" y="400"    sprite="stages/stagelinc/stagefrontBroken"      scroll="0.5" />
+	<sprite name="lightbork"       x="500" y="400"    sprite="stages/stagelinc/stage_lightBroken"      scroll="0.5" />
+
+	<sprite name="linconrock"       x="-600" y="450"    sprite="stages/stagelinc/lincRock"      scroll="0.5" />
+
+	<sprite name="linconrock3"       x="-800" y="500"    sprite="stages/stagelinc/floatRock3"      scroll="0.3" />
+	<sprite name="linconrock4"       x="400" y="600"    sprite="stages/stagelinc/floatRock2"      scroll="1.7" />
+	<sprite name="bg"               x="-600" y="-200"   sprite="stages/default/stageback"       scroll="0.5" />
+	<sprite name="stageFront"       x="-600" y="600"    sprite="stages/default/stagefront"      scroll="0.5" />
+	<girlfriend />
+	<dad x="700" y="70" camyoffset="0" scroll="0.5" scale="1"/>
+		<sprite name="linconrock2"       x="-600" y="500"    sprite="stages/stagelinc/floatRock1"      scroll="0.5" />
+	<boyfriend x="700" y="30" camyoffset="0" scroll="0.5" scale="0.7"  />
+	<sprite name="stageCurtains"    x="-700" y="-300"   sprite="stages/default/stagecurtains"   scroll="1.33" />
+	<ext script="camMove"  folder="data/scripts/"/>
+</stage>

@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-character>
+<character x="80" y="-80" camx="-150" camy="90" icon="tung" color="#DD8330">
+	<anim name="idle" anim="idle0" loop="true"/>
+	<anim name="singDOWN" anim="down0" x="39" y="-202"/>
+	<anim name="singRIGHT" anim="right0" x="-25" y="-44"/>
+	<anim name="singLEFT" anim="left0" x="337" y="-84"/>
+	<anim name="singUP" anim="up0" x="114" y="251"/>
+	<anim name="walk" anim="walk" x="61" y="3" loop="true"/>
+	<anim name="step" anim="step" x="304" y="2"/>
+	<anim name="dustin" anim="dustin" x="37" y="-20" loop="true"/>
+	<anim name="singDOWN-alt" anim="down-alt" x="12" y="-1"/>
+	<anim name="singUP-alt" anim="up-alt" x="81" y="88"/>
+	<anim name="singRIGHT-alt" anim="right-alt" x="-19" y="16"/>
+	<anim name="singLEFT-alt" anim="left-alt" x="351"/>
+	<anim name="E" anim="eee" x="161" y="-70" indices="0,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0"/>
+</character>

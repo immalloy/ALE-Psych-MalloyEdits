@@ -1,0 +1,9 @@
+{
+    "params": [
+        {
+            "name": "This does nothing",
+            "type": "String",
+            "defaultValue": "null"
+        }
+    ]
+}
